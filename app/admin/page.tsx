@@ -96,6 +96,10 @@ export default function AdminPage() {
         <p className="mt-3 text-sm text-gray-600 text-center">
           Enter admin password to continue
         </p>
+<p className="mt-2 text-xs text-gray-400 text-center">
+  Build stamp: GF-ADMIN-LOCK-01
+</p>
+
 
         <input
           type="password"
